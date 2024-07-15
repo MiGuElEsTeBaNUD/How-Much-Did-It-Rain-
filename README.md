@@ -1,3 +1,9 @@
+# Authors
+
+Delgado Jimenez Miguel Esteban - 20192020155
+Forero Guaitero Kevin Andres - 20181020120
+Lancheros Sanchez Christian Camilo - 20222020061
+
 # How-Much-Did-It-Rain-
 Final Project Data-Science-Introduction
 
